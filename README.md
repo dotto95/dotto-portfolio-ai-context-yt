@@ -116,4 +116,4 @@ mercato vengono da fonti pubbliche gratuite.
 
 ---
 
-*Dati prima, opinioni dopo.*
+Damiano
