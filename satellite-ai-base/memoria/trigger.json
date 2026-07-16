@@ -1,0 +1,5 @@
+{
+  "_nota": "Versione machine-readable dei trigger di falsificazioni.md. Li valuta /sentinella sui dati freschi, tra un comitato e l'altro. Il comitato li compila al primo run e li aggiorna a ogni review. Tipi supportati: corr90 (a,b), vol90 (col), vol30_port, corr_media90, drift_cash, trend_sma10 (col), breadth.",
+  "pesi_colonne": {},
+  "trigger": []
+}

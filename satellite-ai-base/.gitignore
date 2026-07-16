@@ -1,0 +1,11 @@
+# dati e output: si rigenerano, non si versionano
+dati/*.csv
+report/
+__pycache__/
+*.pyc
+
+# mai versionare credenziali o export del conto
+.env
+*credentials*
+*token*
+conto_*
